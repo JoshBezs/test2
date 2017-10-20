@@ -1,8 +1,8 @@
 {
   "win32-x64-prod": {
     "readme": "Second release",
-    "update": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2",
-    "install": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2/Simple.Updater.Example.Setup.0.0.2.exe",
+    "update": "https://prx2.megabackup.com/get/eAEBOQDG_8kR1ezCQdvEGurxQqzq9V0xl6NnZXSsWeoyaj9VlUzEAyhypGh2ZHegpH8AAAGpU2V0dXAuZXhloG7iG1Q",
+    "install": "https://prx2.megabackup.com/get/eAEBOQDG_8kR1ezCQdvEGurxQqzq9V0xl6NnZXSsWeoyaj9VlUzEAyhypGh2ZHegpH8AAAGpU2V0dXAuZXhloG7iG1Q=/Setup.exe",
     "version": "1.0.1"
   }
 }
